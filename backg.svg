@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="445.014" height="445.014" viewBox="0 0 445.014 445.014">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_400" data-name="Ellipse 400" cx="157.336" cy="157.336" r="157.336" transform="translate(1143 1923)" fill="rgba(36,124,255,0.05)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_15" data-name="Mask Group 15" transform="translate(-2167.989 -329.036) rotate(-45)" clip-path="url(#clip-path)" style="mix-blend-mode: multiply;isolation: isolate">
+    <path id="Union_7" data-name="Union 7" d="M0,325.968V304.99H332.423v20.978ZM0,292.08V271.1H332.423V292.08Zm0-33.887V237.214H332.423v20.979ZM0,224.3V203.327H332.423V224.3Zm0-33.887V169.438H332.423v20.979ZM0,156.53V135.551H332.423V156.53Zm0-33.889V101.663H332.423v20.978ZM0,88.754V67.775H332.423V88.754ZM0,54.866V33.887H332.423V54.866ZM0,20.978V0H332.423V20.978Z" transform="translate(1134.931 1916.546)" fill="rgba(36,124,255,0.05)"/>
+  </g>
+</svg>
